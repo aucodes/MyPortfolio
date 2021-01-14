@@ -109,18 +109,7 @@ const Footer = () => {
         <a href="https://github.com/bchiang7/v4">
           <span style={{'fontSize':'4px'}}>Open sourced from Brittany Chiang</span>
 
-          {githubInfo.stars && githubInfo.forks && (
-            <div className="github-stats">
-              <span>
-                <Icon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                <Icon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
-              </span>
-            </div>
-          )}
+        
         </a>
       </StyledCredit>
     </StyledFooter>

@@ -8,7 +8,7 @@ const GlobalStyle = createGlobalStyle`
 
   :root {
     --dark-navy: #020c1b;
-    --navy:#e1ad01;
+    --navy:burlywood;
     --light-navy: #112240;
     --lightest-navy: 	#000000;
      --navy-shadow: rgba(2, 12, 27, 0.7);
