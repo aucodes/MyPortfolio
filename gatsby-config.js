@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Astha Upadhyay is a software engineer specializing in ML and building websites, applications, and everything in between.',
     siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: 'images/demo.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Aucodes',
   },
   plugins: [
