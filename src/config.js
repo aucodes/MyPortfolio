@@ -1,26 +1,26 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: '01astha@gmail.com',
 
   socialMedia: [
-    {
-      name: 'GitHub',
-      url: 'https://github.com/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
+    // {
+    //   name: 'GitHub',
+    //   url: 'https://github.com/bchiang7',
+    // },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/bchiang7',
+    // },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/Aucodes',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://linkedin.com/in/asthaupadhyay',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Star',
+      url: 'https://01astha.medium.com/',
     },
   ],
 
@@ -33,10 +33,10 @@ module.exports = {
       name: 'Experience',
       url: '/#jobs',
     },
-    {
-      name: 'Work',
-      url: '/#projects',
-    },
+    // {
+    //   name: 'Work',
+    //   url: '/#projects',
+    // },
     {
       name: 'Contact',
       url: '/#contact',
