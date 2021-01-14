@@ -149,8 +149,7 @@ const About = () => {
           how a small chunk of code can bring people closer. Having worked on plethora of 
          projects in multi various fields, I believe that technology is the future.
             </p> <p>
-            Shortly after graduating from{' '}<a href="https://www.srmist.edu.in/">SRM Institute of Science and Technology</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Qualcomm</a> where I work
+            Shortly after graduating from{' '}<a href="https://www.srmist.edu.in/">SRM Institute of Science and Technology</a>, I joined <a href="https://www.qualcomm.com">Qualcomm</a> where I work
               on a wide variety of interesting and meaningful projects on a daily basis.
             </p>
 
