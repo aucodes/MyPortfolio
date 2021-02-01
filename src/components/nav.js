@@ -30,7 +30,7 @@ const StyledHeader = styled.header`
     css`
       height: var(--nav-scroll-height);
       transform: translateY(0px);
-    //  background-color: rgba(10, 25, 47, 0.85);
+      //  background-color: rgba(10, 25, 47, 0.85);
       box-shadow: 0 10px 30px -10px var(--navy-shadow);
     `};
 
@@ -193,7 +193,7 @@ const Nav = ({ isHome }) => {
                 <div style={{ transitionDelay: `${isHome ? navLinks.length * 100 : 0}ms` }}>
                   <a
                     className="resume-button"
-                    href="https://drive.google.com/file/d/1M4H6Ze0vKPVY1xvDSEWeJQfdlLndD49u/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1CU-80Q2Ph-cNgAHi13lsfy7QCp8wlz9E/view?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer">
                     Resume
