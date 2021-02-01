@@ -1,5 +1,5 @@
 module.exports = {
-  email: '01astha@gmail.com',
+  email: 'work.aucodes@gmail.com',
 
   socialMedia: [
     // {
@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Star',
-      url: 'https://01astha.medium.com/',
+      url: 'https://aucodes.medium.com/',
     },
   ],
 
