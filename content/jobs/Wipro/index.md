@@ -7,5 +7,5 @@ range: 'May - June 2018'
 url: 'https://www.wipro.com/'
 ---
 
-- Proposed and implemented scalable solutions to issues identified with maufacturing services and applications responsible and integrating the business impact of Virtual Assistance.
-- Architected and implemented the prototype for  Sign-Language to Text conversion focusing on Augmented Reality with Opensource Softwares, and coherent user experiences by using Javascript, HTML,CSS.
+- Collaborated with internal stakeholders, identifying and gathering analytical requirements for customer, product, and projects needs.
+- Reinforced machine learning engineering and design, specializing in automation for supply chain.

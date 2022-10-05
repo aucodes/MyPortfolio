@@ -2,14 +2,14 @@ module.exports = {
   email: 'work.aucodes@gmail.com',
 
   socialMedia: [
-    // {
-    //   name: 'GitHub',
-    //   url: 'https://github.com/bchiang7',
-    // },
-    // {
-    //   name: 'Instagram',
-    //   url: 'https://www.instagram.com/bchiang7',
-    // },
+    {
+      name: 'GitHub',
+      url: 'https://github.com/aucodes',
+    },
+    {
+      name: 'Instagram',
+      url: 'https://www.instagram.com/mycodetrail',
+    },
     {
       name: 'Twitter',
       url: 'https://twitter.com/Aucodes',

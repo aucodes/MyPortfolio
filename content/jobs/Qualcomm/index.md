@@ -7,7 +7,7 @@ range: 'July 2020 - Present'
 url: 'https://www.qualcomm.com/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects.
--  Engineered and maintained major features of Qualcomm's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS.
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, React,Angular, Groovy, Grails.
-- Communicate with multi-disciplinary teams of engineers, designers, producers on a daily basis.
+- Developed a system to improve faster user data retrieval to reduce network calls by 5% by integrating with an open-source enterprise search platform called Solr.
+- Contributed towards global supplier application, which enabled \$4B revenue stream by identifying discrepancies in the DB.
+- Programmed notification alerts for suppliers across the globe to enhance communication strategy within the application.
+- Supervised knowledge transfer sessions for the new employees in the team.

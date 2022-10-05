@@ -7,7 +7,6 @@ import sr from '@utils/sr';
 
 const StyledAboutSection = styled.section`
   max-width: 900px;
-
   .inner {
     display: grid;
     grid-template-columns: 3fr 2fr;
@@ -132,7 +131,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Groovy', 'Grails', 'Backbone'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'Python',
+    'React',
+    'Groovy & Grails',
+    'Java',
+    'MongoDB',
+    'AWS',
+    'OpenCV',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,19 +149,20 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Astha, a software engineer.</p>
-
             <p>
-            Being a technophile from an early age,
-      I have always been fascinated by the evolving face of technology on this planet, 
-          how a small chunk of code can bring people closer. Having worked on plethora of 
-         projects in multi various fields, I believe that technology is the future.
-            </p> <p>
-            Shortly after graduating from{' '}<a href="https://www.srmist.edu.in/">SRM Institute of Science and Technology</a>, I joined <a href="https://www.qualcomm.com">Qualcomm</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              Hello! I'm Astha, grad student studying digital communications with major in
+              technology management.
             </p>
 
-            <p>Here are a few technologies I've been working with recently:</p>
+            <p>
+              My research interests is in Human-centric AI, Ethics in AI, Privacy and Responsible
+              AI. <br></br>
+              By designing metrics that drive product success, I hope to put what I've learned from
+              enticing academics and eclectic intellectuals into practice to become efficient
+              industry experts.
+            </p>
+
+            <p>Here are a few technologies I've worked on:</p>
           </div>
 
           <ul className="skills-list">

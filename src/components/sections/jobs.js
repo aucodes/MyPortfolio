@@ -87,7 +87,7 @@ const StyledTabButton = styled.button`
 
   &:hover,
   &:focus {
-    background-color: #F0F8FF;
+    background-color: var(--light-navy);
   }
 `;
 

@@ -7,6 +7,5 @@ range: 'Feb - July 2019'
 url: 'https://amazon.com/'
 ---
 
-- I was assigned a project, "Internal Web Application" that caters to sharing information and artifacts related to the Tablet Team.
--  Engineered and maintained major features of  customer-facing mobile app using flutter, firebase.
--  Interfaced with senior developers on a monthly basis, providing technological expertise on latest technology.
+- Led a 6-member team to pitch early-stage inventions on Internal Platform for the Amazon-Tablet Team to a panel of expert industry judges.
+- Provided a comprehensive analysis and suggested alternatives to handle complex business problems and concerns, and employed advanced analytical methodologies to examine factors affecting growth.
